@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Notes4Votes",
+    "description": "",
+    "home_page_url": "https://thegregmartin.github.io/Notes4Votes",
+    "feed_url": "https://thegregmartin.github.io/Notes4Votes/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Greg Martin"
+    },
+    "items": [
+    ]
+}

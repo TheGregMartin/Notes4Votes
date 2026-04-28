@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://thegregmartin.github.io/Notes4Votes/sitemap.xml
